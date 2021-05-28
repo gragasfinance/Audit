@@ -1,8 +1,8 @@
 # Gragas Finance Audits
 Gragas Finance Contracts Audits
 
-- [x] AnChain
-- [ ] MythX
+- [X] AnChain
+- [X] MythX
 - [ ] Techrate
 - [ ] Defiyield
 - [ ] Certik
